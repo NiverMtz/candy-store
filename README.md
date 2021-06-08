@@ -1,2 +1,2 @@
 # Tienda de Dulces
-Un curso qué tomé y nos guiaban para crear esta página estática, en el entorno creado en glitch.com
+Creation of a static website, about a candy store.
